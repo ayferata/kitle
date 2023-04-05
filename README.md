@@ -1,8 +1,7 @@
 # kitle
 import java.util.Scanner;
+Kilo (kg) / Boy(m) * Boy(m)
 
-
-Kilo (kg) / Boy(m) * Boy(m)*/
 public class VucutKitleIndeks {
     public static void main(String[] args) {
         Scanner inp= new Scanner(System.in);
