@@ -7,7 +7,6 @@ public class VucutKitleIndeks {
         Scanner inp= new Scanner(System.in);
         double boy,kilo ,kitleEndeks;
 
-
         System.out.print("Lutfen boyunuzu giriniz (m) :");
         boy=inp.nextDouble();
 
