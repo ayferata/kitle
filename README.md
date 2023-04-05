@@ -1,6 +1,6 @@
 # kitle
 import java.util.Scanner;
-/*Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın.
+
 
 Kilo (kg) / Boy(m) * Boy(m)*/
 public class VucutKitleIndeks {
