@@ -1,7 +1,7 @@
 # kitle
 import java.util.Scanner;
 /*Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın.
- Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.
+
 Kilo (kg) / Boy(m) * Boy(m)*/
 public class VucutKitleIndeks {
     public static void main(String[] args) {
